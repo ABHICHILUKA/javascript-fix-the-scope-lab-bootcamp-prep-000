@@ -31,4 +31,5 @@ var funkyFunction = function() {
 var theFunk = funkyFunction()
 if(theFunk === 'FUNKY!')
 theFunk
+function()
 
